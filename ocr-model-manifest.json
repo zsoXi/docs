@@ -1,0 +1,31 @@
+[
+  {
+    "path": "v5-det/inference.onnx",
+    "source": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx/resolve/e6f4fa85f00e168c862bc462aebca69eef9b3d3d/inference.onnx",
+    "revision": "e6f4fa85f00e168c862bc462aebca69eef9b3d3d",
+    "bytes": 4826518,
+    "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d",
+    "declared_license": "apache-2.0",
+    "code_license": "Apache-2.0"
+  },
+  {
+    "path": "v5-rec/inference.onnx",
+    "source": "https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec_onnx/resolve/89d3a50e2c27e2e7cceeab0e944c25c807d5db4f/inference.onnx",
+    "revision": "89d3a50e2c27e2e7cceeab0e944c25c807d5db4f",
+    "bytes": 8042023,
+    "sha256": "7888113072263cb471b93f66dd5e2ad70548dc526fa1ace760d0d973dd121498",
+    "declared_license": "apache-2.0",
+    "code_license": "Apache-2.0"
+  },
+  {
+    "path": "v5-rec/dict.txt",
+    "bytes": 2616,
+    "sha256": "ccbcc45730b3fbbd9050c5bc74db6a99067141ef1035e3d14889a84a6b9b1aff",
+    "source": "https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec_onnx/resolve/89d3a50e2c27e2e7cceeab0e944c25c807d5db4f/inference.yml",
+    "declared_license": "apache-2.0",
+    "derived_from": "models/v5-rec/inference.yml",
+    "derivation": "PostProcess.character_dict joined with LF plus final LF; blank and space added by decoder",
+    "code_license": "Apache-2.0",
+    "revision": "89d3a50e2c27e2e7cceeab0e944c25c807d5db4f"
+  }
+]

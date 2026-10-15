@@ -1,0 +1,162 @@
+[
+  {
+    "path": "corpus/print-en-00.png",
+    "kind": "print",
+    "lang": "en",
+    "text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł",
+    "sha256": "291127e6244d3e409941ab35e087f2d6a7eef1c8d9f5852d26170472971673ae",
+    "pilot_text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł"
+  },
+  {
+    "path": "corpus/print-pl-01.png",
+    "kind": "print",
+    "lang": "pl",
+    "text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.",
+    "sha256": "48dc59d24dcdb266eda16a82ef8bb2752acb758179d6488007f95232b1152bd6",
+    "pilot_text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁNÓśŻŻ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆĘŁÑÓŚŻŻ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆĘŁŃÓŚŻŽ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski."
+  },
+  {
+    "path": "corpus/scan1-en-00.jpg",
+    "kind": "scan1",
+    "lang": "en",
+    "text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł",
+    "sha256": "8b22c91dca0dd30b3ecb77b13da5c46353ecb668bd2126f09ffe721cb25c143f",
+    "pilot_text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł"
+  },
+  {
+    "path": "corpus/scan1-pl-01.jpg",
+    "kind": "scan1",
+    "lang": "pl",
+    "text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.",
+    "sha256": "0c18ec7a124cbc65be5be76e7de923248766f40d6673ed89763998a9290c5b82",
+    "pilot_text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆĘŁÑÓŚŻŽ ąćęłńóśżż\nŁódź, Śląsk, Žródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁNÓŚŻŽ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĄĆEĘŁŃÓŚŻŽ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski."
+  },
+  {
+    "path": "corpus/scan3-en-00.jpg",
+    "kind": "scan3",
+    "lang": "en",
+    "text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł",
+    "sha256": "9b4e7a98352aa13c67b29301dabcc74f8f97162a640355377a720f362a83f587",
+    "pilot_text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł"
+  },
+  {
+    "path": "corpus/scan3-pl-01.jpg",
+    "kind": "scan3",
+    "lang": "pl",
+    "text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.",
+    "sha256": "d064c3d5e1a110cc2d2a0e66734b19eb9bd92c2cad0b2c0c42f8752e46c01d92",
+    "pilot_text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆĘŁÑÓŚŻŽ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆEŁÑÓŚŻŽ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆĘŁÑÓŚŻŽ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski."
+  },
+  {
+    "path": "corpus/ui-en-00.png",
+    "kind": "ui",
+    "lang": "en",
+    "text": "Report 001\nSettings > Payments\nSearch: London, New York\nBalance: $1,234.56 (1 234,56 zł)\nLast change: 2026-10-15\nSave | Cancel | Help?",
+    "sha256": "75c824453c41b5b85848b6b20c5c885ec9204859029d09214779d1cb80eb45af",
+    "pilot_text": "Report 001\nSettings > Payments\nSearch: London, New York\nBalance: $1,234.56 (1 234,56 zł)\nLast change: 2026-10-15\nSave | Cancel | Help?"
+  },
+  {
+    "path": "corpus/ui-pl-01.png",
+    "kind": "ui",
+    "lang": "pl",
+    "text": "Raport 002\nUstawienia > Płatności\nSzukaj: Łódź, Źródło, Żółć\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nSaldo: 1 234,56 zł ($1,234.56)\nOstatnia zmiana: 15.10.2026\nZapisz | Anuluj | Pomoc?",
+    "sha256": "60d28479d15684661f619b90706ea3351a616ed9921d413e112862f7a0e8dbc5",
+    "pilot_text": "Raport 002\nUstawienia > Płatności\nSzukaj: Łódź, źródło, Żółć\nAĆĘŁNÓŚŻŻ ąćęłńóśżż\nSaldo: 1 234,56 zł ($1,234.56)\nOstatnia zmiana: 15.10.2026\nZapisz | Anuluj | Pomoc?"
+  },
+  {
+    "path": "corpus/receipt-en-00.png",
+    "kind": "receipt",
+    "lang": "en",
+    "text": "Report 001\nCORNER SHOP\nReceipt 007/2026\nPaper 2 x $5.49\nSalt 1 x $3.99\nTOTAL: $1,234.56\nCard: 1 234,56 zł\nDate: 2026-10-15",
+    "sha256": "bad7f8e0c75172ead2c21a982c1716e928839f495d498341516eb3f56093b24d",
+    "pilot_text": "Report 001\nCORNER SHOP\nReceipt 007/2026\nPaper 2 x $5.49\nSalt 1 x $3.99\nTOTAL: $1,234.56\nCard: 1 234,56 zł\nDate: 2026-10-15"
+  },
+  {
+    "path": "corpus/receipt-pl-01.png",
+    "kind": "receipt",
+    "lang": "pl",
+    "text": "Raport 002\nSKLEP ŻÓŁW\nĄĆĘŁŃÓŚŹŻ\nąćęłńóśźż\nŁódź, ul. Źródlana 8\nChleb 2 x 5,49 zł\nSól 1 x 3,99 zł\nSUMA: 1 234,56 zł\nKarta: $1,234.56\nData: 2026-10-15",
+    "sha256": "ccffd9516bcbcc6e0266271bdb3a77b9412ab3c71855c082bb40217373734581",
+    "pilot_text": "Raport 002\nSKLEP ŻŁW\nĀĆĘŁNÓŚŻŻ\nąćęłńóśżż\nŁódź, ul. Żródlana 8\nChleb 2 x 5,49 zł\nSól 1 x 3,99 zł\nSUMA: 1 234,56 zł\nKarta: $1,234.56\nData: 2026-10-15"
+  },
+  {
+    "path": "corpus/columns-en-00.png",
+    "kind": "columns",
+    "lang": "en",
+    "text": "Report 001\n1.1 Total: $1,234.56\n1.2 Date: 2026-10-15\n1.3 Reference: ABC-123\n1.4 Customer: Jane Doe\n1.5 Paid: yes (copy).\n1.6 Tax rate: 23%.\n1.7 Total: $1,234.56\n1.8 Date: 2026-10-15\n1.9 Reference: ABC-123\n1.10 Customer: Jane Doe\n1.11 Paid: yes (copy).\n1.12 Tax rate: 23%.\n2.1 Total: $1,234.56\n2.2 Date: 2026-10-15\n2.3 Reference: ABC-123\n2.4 Customer: Jane Doe\n2.5 Paid: yes (copy).\n2.6 Tax rate: 23%.\n2.7 Total: $1,234.56\n2.8 Date: 2026-10-15\n2.9 Reference: ABC-123\n2.10 Customer: Jane Doe\n2.11 Paid: yes (copy).\n2.12 Tax rate: 23%.",
+    "sha256": "00db6c5d445919d1c03665f97de206753367db030bb3f6fafd088c18e2d0cc55",
+    "pilot_text": "Report 001\n1.1 Total: $1,234.56\n2.1 Total: $1,234.56\n1.2 Date: 2026-10-15\n2.2 Date: 2026-10-15\n1.3 Reference: ABC-123\n2.3 Reference: ABC-123\n1.4 Customer: Jane Doe\n2.4 Customer: Jane Doe\n1.5 Paid: yes (copy).\n2.5 Paid: yes (copy).\n1.6 Tax rate: 23%.\n2.6 Tax rate: 23%.\n1.7 Total: $1,234.56\n2.7 Total: $1,234.56\n1.8 Date: 2026-10-15\n2.8 Date: 2026-10-15\n1.9 Reference: ABC-123\n2.9 Reference: ABC-123\n1.10 Customer: Jane Doe\n2.10 Customer: Jane Doe\n1.11 Paid: yes (copy).\n2.11 Paid: yes (copy).\n1.12 Tax rate: 23%.\n2.12 Tax rate: 23%."
+  },
+  {
+    "path": "corpus/columns-pl-01.png",
+    "kind": "columns",
+    "lang": "pl",
+    "text": "Raport 002\n1.1 Łódź: 1 234,56 zł\n1.2 ĄĆĘŁŃÓŚŹŻ\n1.3 ąćęłńóśźż\n1.4 Data: 15.10.2026\n1.5 Żółty żuraw, źrebak.\n1.6 Zażółć gęślą jaźń.\n1.7 Łódź: 1 234,56 zł\n1.8 ĄĆĘŁŃÓŚŹŻ\n1.9 ąćęłńóśźż\n1.10 Data: 15.10.2026\n1.11 Żółty żuraw, źrebak.\n1.12 Zażółć gęślą jaźń.\n2.1 Łódź: 1 234,56 zł\n2.2 ĄĆĘŁŃÓŚŹŻ\n2.3 ąćęłńóśźż\n2.4 Data: 15.10.2026\n2.5 Żółty żuraw, źrebak.\n2.6 Zażółć gęślą jaźń.\n2.7 Łódź: 1 234,56 zł\n2.8 ĄĆĘŁŃÓŚŹŻ\n2.9 ąćęłńóśźż\n2.10 Data: 15.10.2026\n2.11 Żółty żuraw, źrebak.\n2.12 Zażółć gęślą jaźń.",
+    "sha256": "14d5b74a679e465efced72570503e530a5fcce25c504b58ab040f36cc1f55037",
+    "pilot_text": "Raport 002\n1.1 Łódź: 1 234,56 zł\n2.1 Łódź: 1 234,56 zł\n1.2 ĄĆĘŁNÓŚŻŻ\n2.2 AĆĘŁŃÓŚŻŻ\n1.3 ąćęłńóśżż\n2.3 ąćęłńóśżż\n1.4 Data: 15.10.2026\n2.4 Data: 15.10.2026\n1.5 Żółty żuraw, źrebak.\n2.5 Żółty żuraw, źrebak.\n1.6 Zażółć gęślą jaźń.\n2.6 Zażółć gęślą jaźń.\n1.7 Łódź: 1 234,56 zł\n2.7 ξódź: 1 234,56 zł\n1.8 ĄĆĘŁNÓŚŻŻ\n2.8 ĄĆĘŁŃÓŚŻŻ\n1.9 ąćęłńóśżż\n2.9 ąćęłńóśżż\n1.10 Data: 15.10.2026\n2.10 Data: 15.10.2026\n1.11 Żółty żuraw, źrebak.\n2.11 Żółty żuraw, źrebak.\n1.12 Zażółć gęślą jaźń.\n2.12 Zażółć gęślą jaźń."
+  },
+  {
+    "path": "corpus/table-ruled-en-00.png",
+    "kind": "table-ruled",
+    "lang": "en",
+    "text": "Report 001\nItem\nCount\nPrice $\nPaper\n1\n123.45\nInk\n2\n1,234.56\nBox\n3\n67.89\nTotal\n6\n1,425.90\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.",
+    "sha256": "5b09d8fcc5edfcf4fb9503ab8325c1d144c526af364b74cb5af568941a2bb900",
+    "pilot_text": "Report 001\nItem\nCount\nPrice $\nPaper\n1\n123.45\nInk\n2\n1,234.56\nBox\n3\n67.89\nTotal\n6\n1,425.90\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London."
+  },
+  {
+    "path": "corpus/table-ruled-pl-01.png",
+    "kind": "table-ruled",
+    "lang": "pl",
+    "text": "Raport 002\nTowar\nIlość\nCena zł\nŻółć\n2\n123,45\nŁódź\n2\n1 234,56\nŹródło\n3\n67,89\nSuma\n6\n1 425,90\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).",
+    "sha256": "b6fa2735470e6607f022cb8c7dcdcc2b343246d4d09eb0b70d2fd6b0ecf97611",
+    "pilot_text": "Raport 002\nTowar\nIlość\nCena zł\nŻółć\n2\n123,45\nŁódź\n2\n1 234,56\nŻródło\n3\n67,89\nSuma\n6\n1 425,90\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆĘŁNÓŚŻŻ ąćęłńóśŻż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia)."
+  },
+  {
+    "path": "corpus/table-open-en-00.png",
+    "kind": "table-open",
+    "lang": "en",
+    "text": "Report 001\nItem\nCount\nPrice $\nPaper\n1\n123.45\nInk\n2\n1,234.56\nBox\n3\n67.89\nTotal\n6\n1,425.90\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.",
+    "sha256": "b33f1aa0aa3a34c8148a3c66c095f9444c885acd234e5ffdd84d592a534e797b",
+    "pilot_text": "Report 001\nItem\nCount\nPrice $\nPaper\n1\n123.45\nInk\n2\n1,234.56\nBox\n3\n67.89\nTotal\n6\n1,425.90\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London."
+  },
+  {
+    "path": "corpus/table-open-pl-01.png",
+    "kind": "table-open",
+    "lang": "pl",
+    "text": "Raport 002\nTowar\nIlość\nCena zł\nŻółć\n2\n123,45\nŁódź\n2\n1 234,56\nŹródło\n3\n67,89\nSuma\n6\n1 425,90\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).",
+    "sha256": "430b73c697bd25edc8a364db2cfd8652c946b0f13727e046a392a66c5c64e461",
+    "pilot_text": "Raport 002\nTowar\nIlość\nCena zł\nŻółć\n2\n123,45\nŁódź\n2\n1 234,56\nŻródło\n3\n67,89\nSuma\n6\n1 425,90\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nAĆĘŁŃÓŚŻŻ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia)."
+  },
+  {
+    "path": "corpus/form-en-00.png",
+    "kind": "form",
+    "lang": "en",
+    "text": "Report 001\nFirst name: Alice\nSurname: Smith\nAddress: 42 High Street\nAmount: $1,234.56\nForeign: 1 234,56 zł\nDate: 2026-10-15\nConsent: [X] Yes [ ] No",
+    "sha256": "9dcca48cf469e0eb7521883f929663e79cbb2ca4bf00ba6fe1a88b168452a307",
+    "pilot_text": "Report 001\nFirst name: Alice\nSurname: Smith\nAddress: 42 High Street\nAmount: $1,234.56\nForeign: 1 234,56 zł\nDate: 2026-10-15\nConsent: [X] Yes [] No"
+  },
+  {
+    "path": "corpus/form-pl-01.png",
+    "kind": "form",
+    "lang": "pl",
+    "text": "Raport 002\nImię: Łukasz\nNazwisko: Żółć\nAdres: Łódź, Źródlana 8\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nKwota: 1 234,56 zł\nWaluta obca: $1,234.56\nData: 2026-10-15\nZgoda: [X] Tak [ ] Nie",
+    "sha256": "b3c9e84582f9b7ed34e876440f5fd53c84bf463da929f706a90cd6e8de8dc0e6",
+    "pilot_text": "Raport 002\nImię: Łukasz\nNazwisko: Żółć\nAdres: Łódź, Żródlana 8\nĄĆĘŁNÓŚŻŻ ąćęłóśżż\nKwota: 1 234,56 zł\nWaluta obca: $1,234.56\nData: 2026-10-15\nZgoda: [X] Tak [] Nie"
+  },
+  {
+    "path": "corpus/dense-en-00.png",
+    "kind": "dense",
+    "lang": "en",
+    "text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.",
+    "sha256": "d3dd37485d15dc5efcfe737d402338b606a802cddaa50faec3b94102bb6e387d",
+    "pilot_text": "Report 001\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London.\nThe quick brown fox jumps over the lazy dog.\nInvoice: 007/2026; customer: Alice Smith.\nAmount: $1,234.56; VAT: 23%; 1 234,56 zł\nDate: 2026-10-15; due: 31.12.2026.\nPaid? Yes! Reference: [ABC-123] (copy).\nShipping address: 42 High Street, London."
+  },
+  {
+    "path": "corpus/dense-pl-01.png",
+    "kind": "dense",
+    "lang": "pl",
+    "text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŹŻ ąćęłńóśźż\nŁódź, Śląsk, Źródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).",
+    "sha256": "c5affe93203750ea07852bcd8e9dff145b08e23f3f6ceb9c12d895cd5b162c53",
+    "pilot_text": "Raport 002\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŻŻ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁNÓŚŻŻ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁNÓŚŻŻ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia).\nZażółć gęślą jaźń. Pchnąć w tę łódź jeża!\nĄĆĘŁŃÓŚŻŻ ąćęłńóśżż\nŁódź, Śląsk, Żródło: urząd miejski.\nKwota: 1 234,56 zł; VAT: 23%; $1,234.56\nData: 2026-10-15; termin: 31.12.2026.\nCzy zapłacono? Tak! Nr: 007/2026 (kopia)."
+  }
+]

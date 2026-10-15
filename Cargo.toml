@@ -1,0 +1,36 @@
+[package]
+name = "docs"
+default-run = "docs"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.98"
+license = "MIT OR Apache-2.0"
+description = "Read, convert, edit, create, merge and split PDF, DOCX, Markdown, HTML and text documents."
+
+[dependencies]
+# Parse on the caller's thread: hostile inputs must not initialize Rayon's
+# infallible global pool, including under process memory/thread limits.
+lopdf = { version = "0.45", default-features = false, features = ["chrono-clock"] }
+pdf-extract = "0.12"
+docx-rs = "0.4"
+pulldown-cmark = "0.13"
+printpdf = { version = "0.12", features = ["images", "jpeg", "png"] }
+html2md = "0.2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+schemars = "1"
+thiserror = "2"
+ttf-parser = "0.25"
+image = { version = "0.25", default-features = false, features = ["png", "jpeg"] }
+subsetter = "0.2.6"
+# PP-OCRv5 preprocessing and ONNX inference; models/runtime stay outside the crate.
+imageproc = { version = "0.27", default-features = false }
+ndarray = "0.17"
+ort = { version = "=2.0.0-rc.13", default-features = false, features = ["std", "ndarray", "load-dynamic", "api-24"] }
+sha2 = "0.10"
+
+[lints.clippy]
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
+todo = "deny"
